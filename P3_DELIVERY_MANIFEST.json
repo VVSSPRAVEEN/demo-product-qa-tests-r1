@@ -1,0 +1,6 @@
+{
+  "repository_kind": "qa-tests",
+  "project_name": "Demo Product",
+  "run_id": "r1",
+  "note": "Dedicated QA mirror containing automated test assets only."
+}
